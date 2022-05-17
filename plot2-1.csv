@@ -1,0 +1,71 @@
+City,Date,Shape,CountofShape
+San Antonio,May 2018,Formation,1
+Austin,April 2018,*,2
+Houston,April 2018,Light,1
+Fort Worth,March 2018,Sphere,1
+San Antonio,March 2018,Sphere,1
+Houston,March 2018,Disk,1
+Fort Worth,February 2018,Circle,1
+San Antonio,February 2018,Oval,1
+Fort Worth,January 2018,Rectangle,1
+Dallas,December 2017,Sphere,1
+San Antonio,December 2017,*,3
+Houston,December 2017,Triangle,1
+San Antonio,November 2017,Cigar,1
+Houston,November 2017,Flash,1
+El Paso,October 2017,Other,1
+Austin,October 2017,Disk,1
+Houston,October 2017,*,3
+Austin,September 2017,Light,1
+Houston,September 2017,Sphere,1
+Austin,August 2017,*,2
+San Antonio,July 2017,Other,1
+Houston,June 2017,Triangle,1
+Katy,May 2017,Cylinder,1
+Fort Worth,May 2017,Sphere,1
+San Antonio,May 2017,*,2
+Austin,May 2017,Disk,1
+Houston,May 2017,Other,1
+Dallas,April 2017,Triangle,1
+Austin,April 2017,*,2
+Fort Worth,March 2017,Light,1
+Dallas,March 2017,*,3
+Austin,March 2017,Triangle,1
+Houston,March 2017,Cylinder,1
+Dallas,February 2017,Light,2
+Katy,January 2017,Fireball,1
+San Antonio,January 2017,*,3
+Austin,January 2017,Formation,1
+San Antonio,December 2016,Fireball,1
+Corpus Christi,November 2016,Unknown,1
+Austin,November 2016,Teardrop,1
+Houston,November 2016,*,2
+Plano,October 2016,Light,1
+Fort Worth,October 2016,Cigar,1
+San Antonio,October 2016,Diamond,1
+Austin,October 2016,Unknown,1
+Houston,October 2016,*,3
+Dallas,September 2016,Light,1
+Austin,September 2016,*,2
+El Paso,August 2016,Diamond,1
+San Antonio,August 2016,Light,1
+Austin,August 2016,*,2
+Houston,August 2016,Triangle,1
+Plano,July 2016,Circle,1
+Corpus Christi,July 2016,Light,1
+El Paso,July 2016,Light,1
+Austin,July 2016,*,3
+Katy,June 2016,*,2
+San Antonio,June 2016,Diamond,1
+Plano,May 2016,Sphere,1
+Houston,May 2016,Oval,1
+El Paso,April 2016,*,2
+San Antonio,April 2016,*,2
+Austin,April 2016,Cigar,1
+Arlington,March 2016,Oval,1
+El Paso,March 2016,Triangle,1
+Dallas,March 2016,Light,2
+San Antonio,February 2016,Cigar,1
+Austin,February 2016,*,2
+Houston,February 2016,*,2
+Austin,January 2016,Circle,1
