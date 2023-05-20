@@ -1,0 +1,1081 @@
+﻿City,Month of Date / Time,Shape,Count of Shape
+San Antonio,May 2018,Formation,1
+Austin,April 2018,*,2
+Houston,April 2018,Light,1
+Fort Worth,March 2018,Sphere,1
+San Antonio,March 2018,Sphere,1
+Houston,March 2018,Disk,1
+Fort Worth,February 2018,Circle,1
+San Antonio,February 2018,Oval,1
+Fort Worth,January 2018,Rectangle,1
+Dallas,December 2017,Sphere,1
+San Antonio,December 2017,*,3
+Houston,December 2017,Triangle,1
+San Antonio,November 2017,Cigar,1
+Houston,November 2017,Flash,1
+El Paso,October 2017,Other,1
+Austin,October 2017,Disk,1
+Houston,October 2017,*,3
+Austin,September 2017,Light,1
+Houston,September 2017,Sphere,1
+Austin,August 2017,*,2
+San Antonio,July 2017,Other,1
+Houston,June 2017,Triangle,1
+Katy,May 2017,Cylinder,1
+Fort Worth,May 2017,Sphere,1
+San Antonio,May 2017,*,2
+Austin,May 2017,Disk,1
+Houston,May 2017,Other,1
+Dallas,April 2017,Triangle,1
+Austin,April 2017,*,2
+Fort Worth,March 2017,Light,1
+Dallas,March 2017,*,3
+Austin,March 2017,Triangle,1
+Houston,March 2017,Cylinder,1
+Dallas,February 2017,Light,2
+Katy,January 2017,Fireball,1
+San Antonio,January 2017,*,3
+Austin,January 2017,Formation,1
+San Antonio,December 2016,Fireball,1
+Corpus Christi,November 2016,Unknown,1
+Austin,November 2016,Teardrop,1
+Houston,November 2016,*,2
+Plano,October 2016,Light,1
+Fort Worth,October 2016,Cigar,1
+San Antonio,October 2016,Diamond,1
+Austin,October 2016,Unknown,1
+Houston,October 2016,*,3
+Dallas,September 2016,Light,1
+Austin,September 2016,*,2
+El Paso,August 2016,Diamond,1
+San Antonio,August 2016,Light,1
+Austin,August 2016,*,2
+Houston,August 2016,Triangle,1
+Plano,July 2016,Circle,1
+Corpus Christi,July 2016,Light,1
+El Paso,July 2016,Light,1
+Austin,July 2016,*,3
+Katy,June 2016,*,2
+San Antonio,June 2016,Diamond,1
+Plano,May 2016,Sphere,1
+Houston,May 2016,Oval,1
+El Paso,April 2016,*,2
+San Antonio,April 2016,*,2
+Austin,April 2016,Cigar,1
+Arlington,March 2016,Oval,1
+El Paso,March 2016,Triangle,1
+Dallas,March 2016,Light,2
+San Antonio,February 2016,Cigar,1
+Austin,February 2016,*,2
+Houston,February 2016,*,2
+Austin,January 2016,Circle,1
+Arlington,December 2015,Cigar,1
+Corpus Christi,November 2015,Circle,1
+Dallas,November 2015,Fireball,1
+Corpus Christi,October 2015,*,2
+Dallas,October 2015,Light,1
+San Antonio,October 2015,Circle,2
+Austin,October 2015,*,2
+Houston,October 2015,*,3
+Corpus Christi,September 2015,*,2
+El Paso,September 2015,*,2
+Dallas,September 2015,Other,1
+Houston,September 2015,Other,1
+Dallas,August 2015,Light,1
+Dallas,July 2015,Oval,1
+Houston,July 2015,Unknown,1
+Dallas,June 2015,*,2
+San Antonio,June 2015,*,2
+Austin,June 2015,*,2
+Houston,June 2015,Unknown,1
+Katy,May 2015,*,2
+Fort Worth,May 2015,Light,1
+Dallas,May 2015,*,3
+Austin,May 2015,*,2
+Katy,April 2015,Circle,1
+Fort Worth,April 2015,*,2
+El Paso,April 2015,*,2
+Houston,April 2015,Oval,1
+Plano,March 2015,Changing,1
+Dallas,March 2015,Circle,1
+San Antonio,March 2015,Teardrop,1
+Austin,March 2015,Triangle,1
+El Paso,January 2015,Light,1
+San Antonio,January 2015,*,4
+Austin,January 2015,*,3
+Houston,January 2015,*,2
+Arlington,December 2014,Unknown,1
+El Paso,December 2014,Unknown,1
+San Antonio,December 2014,*,2
+Houston,December 2014,Sphere,1
+Dallas,November 2014,*,2
+San Antonio,November 2014,Other,1
+Houston,November 2014,*,2
+San Antonio,October 2014,*,2
+Austin,October 2014,Disk,1
+Houston,October 2014,*,2
+Plano,September 2014,Unknown,1
+Katy,September 2014,Changing,1
+Fort Worth,September 2014,Other,1
+Dallas,September 2014,Other,1
+Austin,September 2014,*,3
+Houston,September 2014,Formation,1
+Katy,August 2014,Fireball,1
+Fort Worth,August 2014,Circle,1
+Austin,August 2014,*,3
+Houston,August 2014,*,2
+Katy,July 2014,*,3
+Arlington,July 2014,Triangle,1
+Corpus Christi,July 2014,*,3
+Fort Worth,July 2014,Unknown,1
+El Paso,July 2014,Light,1
+San Antonio,July 2014,Sphere,1
+Austin,July 2014,*,9
+Houston,July 2014,*,3
+Plano,June 2014,Light,1
+El Paso,June 2014,Unknown,1
+Dallas,June 2014,*,2
+San Antonio,June 2014,Light,1
+Austin,June 2014,Cylinder,2
+Plano,May 2014,Light,1
+Dallas,May 2014,Other,1
+San Antonio,May 2014,Triangle,1
+El Paso,April 2014,Oval,1
+San Antonio,April 2014,*,3
+Austin,April 2014,*,2
+Houston,April 2014,Sphere,1
+Plano,March 2014,Other,1
+Arlington,March 2014,*,2
+Corpus Christi,March 2014,Cylinder,1
+Houston,March 2014,*,2
+Plano,February 2014,Light,1
+Dallas,February 2014,Triangle,1
+Houston,February 2014,*,2
+Fort Worth,January 2014,Oval,1
+El Paso,January 2014,*,2
+San Antonio,January 2014,Fireball,3
+Austin,January 2014,*,5
+Houston,January 2014,Circle,1
+Arlington,December 2013,Sphere,1
+Corpus Christi,December 2013,Sphere,1
+Fort Worth,December 2013,Light,1
+Dallas,December 2013,Triangle,1
+San Antonio,December 2013,Disk,1
+Austin,December 2013,*,2
+Plano,November 2013,Unknown,1
+Arlington,November 2013,*,2
+Houston,November 2013,*,4
+Katy,October 2013,*,3
+Arlington,October 2013,Sphere,1
+Fort Worth,October 2013,Cylinder,1
+Dallas,October 2013,*,3
+San Antonio,October 2013,Triangle,1
+Austin,October 2013,*,4
+Houston,October 2013,Sphere,1
+Arlington,September 2013,Fireball,1
+Fort Worth,September 2013,Light,1
+Dallas,September 2013,Unknown,1
+San Antonio,September 2013,*,2
+Austin,September 2013,Changing,1
+Houston,September 2013,Circle,1
+Corpus Christi,August 2013,Circle,1
+El Paso,August 2013,Light,1
+Dallas,August 2013,Light,2
+Austin,August 2013,*,2
+Houston,August 2013,*,2
+Plano,July 2013,Sphere,1
+Dallas,July 2013,*,3
+San Antonio,July 2013,Changing,1
+Austin,July 2013,*,2
+Houston,July 2013,Triangle,1
+Corpus Christi,June 2013,Oval,1
+San Antonio,June 2013,Disk,1
+Austin,June 2013,Light,2
+Houston,June 2013,Light,1
+Corpus Christi,May 2013,Disk,1
+El Paso,May 2013,Sphere,1
+Dallas,May 2013,Sphere,1
+Austin,May 2013,*,4
+Arlington,April 2013,Cylinder,1
+Fort Worth,April 2013,Fireball,1
+San Antonio,April 2013,Fireball,1
+Austin,April 2013,*,4
+Houston,April 2013,Circle,1
+Katy,March 2013,Diamond,1
+Dallas,March 2013,Oval,1
+Austin,March 2013,Changing,1
+Houston,March 2013,*,2
+Katy,February 2013,Circle,1
+Arlington,February 2013,Oval,1
+Dallas,February 2013,*,2
+Austin,February 2013,Unknown,1
+Houston,February 2013,*,2
+Arlington,January 2013,Triangle,1
+Fort Worth,January 2013,Light,1
+San Antonio,January 2013,*,2
+Austin,January 2013,*,2
+Corpus Christi,December 2012,Light,1
+Dallas,December 2012,Light,1
+Houston,December 2012,Unknown,1
+Katy,November 2012,*,2
+Corpus Christi,November 2012,Cigar,1
+Houston,November 2012,*,2
+Katy,October 2012,Triangle,1
+Arlington,October 2012,Triangle,1
+Fort Worth,October 2012,Circle,1
+El Paso,October 2012,Fireball,1
+Dallas,October 2012,Other,1
+San Antonio,October 2012,Diamond,1
+Austin,October 2012,Changing,1
+Houston,October 2012,Fireball,1
+Corpus Christi,September 2012,Sphere,1
+Fort Worth,September 2012,Fireball,2
+San Antonio,September 2012,Circle,1
+Austin,September 2012,Triangle,2
+Houston,September 2012,*,2
+Corpus Christi,August 2012,Light,1
+Dallas,August 2012,Other,1
+San Antonio,August 2012,*,2
+Austin,August 2012,*,3
+Houston,August 2012,*,4
+Corpus Christi,July 2012,Other,1
+Dallas,July 2012,Fireball,2
+Houston,July 2012,Light,2
+Katy,June 2012,Other,1
+El Paso,June 2012,Circle,1
+Dallas,June 2012,Egg,1
+San Antonio,June 2012,Fireball,1
+Houston,June 2012,Teardrop,1
+Fort Worth,May 2012,Disk,1
+San Antonio,May 2012,*,2
+Houston,May 2012,Fireball,1
+Katy,April 2012,Triangle,1
+Fort Worth,April 2012,Chevron,1
+Dallas,April 2012,Triangle,1
+Austin,April 2012,*,2
+Fort Worth,March 2012,Light,1
+Dallas,March 2012,Light,1
+Austin,March 2012,*,2
+Houston,March 2012,*,2
+Arlington,February 2012,Light,1
+Fort Worth,February 2012,Triangle,1
+El Paso,February 2012,Circle,1
+San Antonio,February 2012,Fireball,1
+Austin,February 2012,Fireball,1
+Dallas,January 2012,*,3
+San Antonio,January 2012,Disk,1
+Austin,January 2012,Diamond,1
+Houston,January 2012,*,2
+Corpus Christi,December 2011,Light,1
+Dallas,December 2011,Circle,1
+San Antonio,December 2011,Circle,1
+Austin,December 2011,*,2
+Houston,December 2011,Light,1
+Katy,November 2011,Triangle,1
+Dallas,November 2011,Fireball,1
+San Antonio,November 2011,Unknown,1
+Austin,November 2011,*,2
+Houston,November 2011,Other,2
+Plano,October 2011,Triangle,1
+Katy,October 2011,Disk,2
+El Paso,October 2011,*,3
+San Antonio,October 2011,*,2
+Plano,September 2011,Oval,1
+Katy,September 2011,Rectangle,1
+Corpus Christi,September 2011,Oval,1
+Fort Worth,September 2011,Circle,1
+Dallas,September 2011,Fireball,1
+San Antonio,September 2011,Triangle,1
+Houston,September 2011,*,2
+El Paso,August 2011,Circle,1
+Dallas,August 2011,Triangle,1
+San Antonio,August 2011,*,2
+Houston,August 2011,*,2
+Plano,July 2011,*,2
+El Paso,July 2011,Sphere,1
+Dallas,July 2011,Disk,1
+San Antonio,July 2011,*,2
+Austin,July 2011,Triangle,1
+Houston,July 2011,*,3
+Corpus Christi,June 2011,Fireball,1
+Fort Worth,May 2011,Formation,1
+El Paso,May 2011,Oval,1
+San Antonio,May 2011,*,2
+Austin,May 2011,*,2
+Houston,May 2011,Unknown,1
+Corpus Christi,April 2011,Circle,1
+Fort Worth,April 2011,Oval,1
+Dallas,April 2011,Triangle,1
+San Antonio,April 2011,*,2
+Katy,March 2011,Cross,1
+Fort Worth,March 2011,Sphere,1
+San Antonio,March 2011,*,2
+Plano,February 2011,Unknown,1
+Corpus Christi,February 2011,Light,1
+Austin,February 2011,*,2
+Katy,January 2011,*,2
+Corpus Christi,January 2011,Light,1
+Dallas,January 2011,*,2
+Austin,January 2011,Fireball,1
+Houston,January 2011,Rectangle,1
+Fort Worth,December 2010,Fireball,1
+Houston,December 2010,*,2
+Plano,November 2010,Unknown,1
+Corpus Christi,November 2010,Triangle,1
+Fort Worth,November 2010,Other,1
+Austin,November 2010,Sphere,2
+Houston,November 2010,*,3
+Plano,October 2010,Cone,1
+Katy,October 2010,Light,2
+Fort Worth,October 2010,Circle,1
+Dallas,October 2010,*,3
+San Antonio,October 2010,Fireball,1
+Austin,October 2010,*,3
+Plano,September 2010,Disk,1
+Katy,September 2010,Oval,1
+Arlington,September 2010,Triangle,1
+Fort Worth,September 2010,Triangle,1
+El Paso,September 2010,Other,1
+Dallas,September 2010,Triangle,1
+Austin,September 2010,*,2
+Houston,September 2010,*,2
+Arlington,August 2010,Triangle,1
+El Paso,August 2010,*,3
+Dallas,August 2010,Fireball,1
+San Antonio,August 2010,*,5
+Corpus Christi,July 2010,Circle,1
+Fort Worth,July 2010,Sphere,2
+El Paso,July 2010,Light,1
+Dallas,July 2010,*,4
+San Antonio,July 2010,Chevron,1
+Houston,July 2010,Disk,1
+Plano,June 2010,*,2
+Arlington,June 2010,Light,2
+El Paso,June 2010,*,2
+Houston,June 2010,*,2
+Arlington,May 2010,Light,1
+Dallas,May 2010,Disk,1
+Austin,May 2010,Unknown,1
+Arlington,April 2010,Chevron,1
+Fort Worth,April 2010,Sphere,1
+San Antonio,April 2010,Triangle,1
+Austin,April 2010,Light,1
+Houston,April 2010,*,2
+Arlington,March 2010,Light,1
+El Paso,March 2010,Changing,1
+San Antonio,March 2010,Sphere,1
+Austin,March 2010,Unknown,1
+Corpus Christi,February 2010,Circle,1
+San Antonio,February 2010,Light,1
+Austin,February 2010,Sphere,1
+Fort Worth,January 2010,Chevron,1
+San Antonio,January 2010,Sphere,1
+Austin,January 2010,Other,1
+Houston,January 2010,Circle,1
+Fort Worth,December 2009,Other,1
+Austin,December 2009,Disk,1
+Corpus Christi,November 2009,Unknown,1
+Dallas,November 2009,*,2
+Austin,November 2009,*,3
+Corpus Christi,October 2009,Oval,1
+Austin,October 2009,Sphere,1
+Houston,October 2009,*,3
+Corpus Christi,September 2009,Other,1
+Fort Worth,September 2009,*,2
+San Antonio,September 2009,Unknown,1
+Houston,September 2009,*,3
+Arlington,August 2009,Other,1
+Fort Worth,August 2009,Disk,1
+El Paso,August 2009,Other,1
+Dallas,August 2009,Other,1
+San Antonio,August 2009,*,2
+Austin,August 2009,Light,1
+Houston,August 2009,*,3
+Katy,July 2009,Other,1
+Houston,July 2009,*,2
+Corpus Christi,June 2009,Changing,1
+El Paso,June 2009,Fireball,1
+Dallas,June 2009,*,3
+San Antonio,June 2009,*,4
+Austin,June 2009,Oval,1
+Houston,June 2009,*,2
+Plano,May 2009,Unknown,1
+Katy,May 2009,Unknown,1
+El Paso,May 2009,Triangle,2
+Dallas,May 2009,Unknown,1
+San Antonio,May 2009,Chevron,1
+Austin,May 2009,Sphere,1
+Arlington,April 2009,Circle,1
+El Paso,April 2009,Oval,1
+San Antonio,April 2009,Other,1
+Austin,April 2009,*,2
+Houston,April 2009,*,2
+El Paso,March 2009,Changing,1
+Austin,March 2009,Other,1
+Houston,March 2009,Unknown,1
+Dallas,February 2009,Light,1
+Austin,February 2009,Circle,2
+Houston,February 2009,Light,1
+Dallas,January 2009,Unknown,1
+San Antonio,January 2009,*,2
+Houston,January 2009,*,3
+Katy,December 2008,Light,1
+Dallas,December 2008,*,2
+San Antonio,December 2008,*,2
+Austin,December 2008,*,2
+Plano,November 2008,Disk,1
+Arlington,November 2008,*,2
+El Paso,November 2008,*,3
+Dallas,November 2008,*,4
+San Antonio,November 2008,*,2
+Austin,November 2008,*,3
+Plano,October 2008,Cylinder,1
+Arlington,October 2008,*,2
+Fort Worth,October 2008,Triangle,1
+El Paso,October 2008,Light,1
+Dallas,October 2008,*,4
+Austin,October 2008,Sphere,1
+El Paso,September 2008,Light,1
+San Antonio,September 2008,Triangle,1
+Austin,September 2008,*,3
+Houston,September 2008,*,5
+Katy,August 2008,Unknown,1
+Arlington,August 2008,Oval,1
+Corpus Christi,August 2008,Light,1
+El Paso,August 2008,Teardrop,1
+Dallas,August 2008,Unknown,1
+Austin,August 2008,*,3
+Houston,August 2008,*,5
+Corpus Christi,July 2008,Other,1
+Fort Worth,July 2008,Triangle,2
+Dallas,July 2008,Fireball,1
+San Antonio,July 2008,*,6
+Houston,July 2008,*,4
+El Paso,June 2008,Cigar,1
+San Antonio,June 2008,Other,1
+Austin,June 2008,Light,2
+Houston,June 2008,*,3
+Arlington,May 2008,Flash,1
+Fort Worth,May 2008,Oval,1
+Dallas,May 2008,*,2
+San Antonio,May 2008,Sphere,1
+Houston,May 2008,Sphere,2
+El Paso,April 2008,Light,1
+Dallas,April 2008,Disk,1
+San Antonio,April 2008,Changing,1
+Austin,April 2008,Teardrop,1
+Houston,April 2008,Other,2
+Dallas,March 2008,Cigar,1
+Austin,March 2008,*,2
+Houston,March 2008,Changing,1
+Plano,February 2008,Circle,1
+Corpus Christi,February 2008,*,2
+Fort Worth,February 2008,*,2
+El Paso,February 2008,*,2
+Dallas,February 2008,*,3
+San Antonio,February 2008,Changing,1
+Austin,February 2008,*,2
+Houston,February 2008,Sphere,1
+San Antonio,January 2008,*,3
+Austin,January 2008,Disk,1
+Houston,January 2008,*,3
+Plano,December 2007,Sphere,1
+Corpus Christi,December 2007,*,2
+El Paso,December 2007,Fireball,1
+Dallas,December 2007,Light,1
+San Antonio,December 2007,Unknown,1
+Houston,December 2007,Flash,1
+Plano,November 2007,*,2
+San Antonio,November 2007,*,2
+Austin,November 2007,Oval,1
+Houston,November 2007,*,2
+Plano,October 2007,Other,1
+Katy,October 2007,Triangle,1
+Arlington,October 2007,Light,2
+San Antonio,October 2007,Fireball,1
+Austin,October 2007,*,3
+Houston,October 2007,*,5
+El Paso,September 2007,Oval,1
+Austin,September 2007,*,4
+Plano,August 2007,Unknown,1
+Dallas,August 2007,Unknown,1
+Houston,August 2007,Unknown,2
+El Paso,July 2007,*,2
+San Antonio,July 2007,*,3
+Austin,July 2007,Circle,2
+El Paso,June 2007,Formation,1
+Houston,June 2007,Sphere,1
+Plano,May 2007,Rectangle,1
+San Antonio,April 2007,Other,1
+Austin,April 2007,*,2
+Arlington,March 2007,Oval,1
+Corpus Christi,March 2007,Light,1
+El Paso,March 2007,Oval,1
+Austin,March 2007,Light,1
+Houston,March 2007,*,4
+Austin,February 2007,Formation,1
+Houston,February 2007,*,2
+Katy,January 2007,Light,1
+Corpus Christi,January 2007,Sphere,1
+Fort Worth,January 2007,Triangle,1
+Dallas,January 2007,*,2
+San Antonio,January 2007,*,2
+Houston,January 2007,*,2
+Austin,December 2006,Light,1
+Katy,November 2006,Triangle,1
+Arlington,October 2006,Cylinder,1
+San Antonio,October 2006,*,3
+Austin,October 2006,Unknown,1
+Arlington,September 2006,Egg,1
+Fort Worth,September 2006,Other,1
+San Antonio,September 2006,Fireball,1
+Houston,September 2006,*,6
+Corpus Christi,August 2006,*,2
+Fort Worth,August 2006,Light,1
+Dallas,August 2006,Fireball,1
+San Antonio,August 2006,*,2
+Austin,August 2006,*,2
+Corpus Christi,July 2006,Formation,1
+San Antonio,July 2006,Other,1
+Fort Worth,June 2006,Unknown,1
+El Paso,June 2006,Changing,1
+San Antonio,June 2006,Light,1
+Austin,June 2006,*,2
+Houston,June 2006,*,3
+Plano,May 2006,Unknown,1
+El Paso,May 2006,Other,1
+Austin,May 2006,*,2
+Houston,May 2006,*,2
+Arlington,April 2006,Triangle,1
+Fort Worth,April 2006,Other,1
+El Paso,April 2006,Other,1
+Dallas,April 2006,Changing,1
+San Antonio,April 2006,*,2
+Austin,April 2006,Circle,1
+Houston,April 2006,Oval,1
+Corpus Christi,March 2006,Changing,1
+San Antonio,March 2006,Triangle,2
+San Antonio,February 2006,Triangle,1
+Austin,February 2006,*,3
+Houston,February 2006,Light,1
+El Paso,January 2006,Circle,1
+San Antonio,January 2006,Triangle,1
+Houston,January 2006,Light,1
+Plano,December 2005,*,2
+Arlington,December 2005,Light,1
+Austin,December 2005,Triangle,2
+Plano,November 2005,*,2
+Katy,November 2005,Light,1
+Arlington,November 2005,Light,1
+Fort Worth,November 2005,Light,1
+Dallas,November 2005,Triangle,1
+San Antonio,November 2005,*,3
+Austin,November 2005,Fireball,1
+Katy,October 2005,Unknown,1
+Arlington,October 2005,*,2
+Fort Worth,October 2005,Light,1
+Dallas,October 2005,Disk,1
+San Antonio,October 2005,*,2
+Austin,October 2005,*,3
+Houston,October 2005,Circle,1
+Plano,September 2005,Other,1
+Arlington,September 2005,Fireball,1
+San Antonio,September 2005,*,3
+Austin,September 2005,Fireball,1
+Plano,August 2005,Light,1
+Fort Worth,August 2005,Other,1
+Dallas,August 2005,Formation,1
+Austin,August 2005,Light,1
+Houston,August 2005,Unknown,1
+Fort Worth,July 2005,*,2
+El Paso,July 2005,*,2
+Dallas,July 2005,Unknown,1
+San Antonio,July 2005,Circle,1
+Fort Worth,June 2005,Light,1
+San Antonio,June 2005,Sphere,1
+Houston,June 2005,*,2
+Arlington,May 2005,Light,1
+El Paso,May 2005,*,3
+Austin,May 2005,*,2
+Katy,April 2005,Light,1
+Dallas,April 2005,Unknown,1
+Austin,April 2005,Unknown,1
+Houston,April 2005,Circle,1
+Fort Worth,March 2005,Disk,1
+El Paso,March 2005,*,2
+Dallas,March 2005,*,2
+San Antonio,March 2005,Light,1
+Austin,March 2005,Triangle,1
+Houston,March 2005,Triangle,1
+Plano,February 2005,Cigar,1
+Houston,February 2005,Circle,1
+El Paso,January 2005,Disk,1
+Dallas,January 2005,*,2
+San Antonio,January 2005,Light,2
+Houston,January 2005,*,2
+Plano,December 2004,Fireball,1
+Fort Worth,December 2004,*,2
+Dallas,December 2004,Formation,1
+Houston,November 2004,Light,1
+Dallas,October 2004,Fireball,1
+San Antonio,October 2004,*,2
+Austin,October 2004,Changing,1
+Houston,October 2004,Other,1
+Corpus Christi,September 2004,Triangle,1
+Dallas,September 2004,Light,1
+San Antonio,September 2004,Triangle,1
+Austin,September 2004,*,5
+Arlington,August 2004,*,2
+Fort Worth,August 2004,Sphere,2
+Houston,August 2004,*,4
+Corpus Christi,July 2004,Oval,1
+Fort Worth,July 2004,Unknown,2
+Dallas,July 2004,*,2
+San Antonio,July 2004,*,2
+Houston,July 2004,*,4
+El Paso,June 2004,Light,1
+San Antonio,June 2004,*,2
+Austin,June 2004,Sphere,1
+Houston,June 2004,Light,1
+San Antonio,May 2004,*,3
+Houston,May 2004,Other,1
+Corpus Christi,April 2004,Triangle,1
+El Paso,April 2004,Cigar,1
+Dallas,April 2004,Triangle,1
+San Antonio,April 2004,Unknown,1
+Austin,April 2004,Light,1
+Houston,April 2004,*,2
+El Paso,March 2004,Changing,1
+Austin,March 2004,Light,1
+Houston,March 2004,*,3
+San Antonio,February 2004,Circle,1
+Houston,February 2004,*,2
+Corpus Christi,January 2004,Circle,1
+El Paso,January 2004,Triangle,1
+Dallas,January 2004,Light,1
+San Antonio,January 2004,Other,1
+Houston,January 2004,*,2
+Corpus Christi,December 2003,Circle,1
+Austin,December 2003,*,2
+Houston,December 2003,*,4
+Arlington,November 2003,Triangle,1
+El Paso,November 2003,Sphere,1
+Dallas,November 2003,*,3
+Austin,November 2003,Light,1
+El Paso,October 2003,Disk,1
+Dallas,October 2003,*,2
+Austin,October 2003,*,3
+Houston,October 2003,*,3
+Arlington,September 2003,Light,1
+Fort Worth,September 2003,*,3
+San Antonio,September 2003,*,2
+Houston,September 2003,*,2
+Katy,August 2003,Changing,1
+Fort Worth,August 2003,Cigar,1
+El Paso,August 2003,Circle,1
+Dallas,August 2003,Diamond,1
+San Antonio,August 2003,*,2
+Austin,August 2003,Light,1
+Houston,August 2003,*,4
+Katy,July 2003,Sphere,1
+El Paso,July 2003,Light,1
+Dallas,July 2003,Disk,1
+San Antonio,July 2003,Sphere,1
+Houston,July 2003,*,2
+Dallas,June 2003,Circle,1
+San Antonio,June 2003,Light,2
+Fort Worth,May 2003,Disk,1
+El Paso,May 2003,Cigar,1
+San Antonio,May 2003,*,2
+Houston,May 2003,Other,1
+Arlington,April 2003,Light,1
+Fort Worth,April 2003,Unknown,1
+Austin,April 2003,Fireball,1
+Plano,March 2003,Light,1
+Dallas,March 2003,*,2
+San Antonio,March 2003,Unknown,1
+Dallas,February 2003,*,3
+San Antonio,February 2003,Light,1
+Houston,February 2003,Light,1
+El Paso,January 2003,Cigar,1
+Dallas,January 2003,Sphere,1
+Houston,January 2003,*,2
+Katy,December 2002,Chevron,1
+Fort Worth,December 2002,Light,1
+El Paso,December 2002,*,2
+Dallas,December 2002,Chevron,1
+Austin,December 2002,Light,1
+Houston,December 2002,Triangle,1
+Plano,November 2002,Formation,1
+Dallas,November 2002,*,2
+Austin,November 2002,Other,1
+Houston,November 2002,*,3
+El Paso,October 2002,Formation,1
+Dallas,October 2002,Fireball,1
+San Antonio,October 2002,Triangle,1
+Austin,October 2002,*,3
+Houston,October 2002,*,3
+Arlington,September 2002,Chevron,1
+Fort Worth,September 2002,Triangle,1
+Austin,September 2002,Oval,1
+Houston,September 2002,Disk,1
+El Paso,August 2002,Circle,1
+Dallas,August 2002,Teardrop,1
+San Antonio,August 2002,Fireball,1
+Austin,August 2002,*,3
+Houston,August 2002,Circle,1
+Corpus Christi,July 2002,Fireball,1
+Dallas,July 2002,Fireball,1
+San Antonio,July 2002,Circle,1
+Houston,July 2002,Triangle,1
+Arlington,June 2002,Sphere,1
+Corpus Christi,June 2002,Disk,1
+Dallas,June 2002,*,2
+San Antonio,June 2002,Formation,1
+Austin,June 2002,Other,1
+Houston,June 2002,Light,1
+Plano,May 2002,Light,1
+San Antonio,May 2002,Light,1
+Houston,May 2002,Circle,1
+San Antonio,April 2002,*,3
+Austin,April 2002,Sphere,1
+Dallas,March 2002,Sphere,1
+Arlington,February 2002,Light,1
+Fort Worth,February 2002,Fireball,1
+San Antonio,February 2002,Disk,1
+Houston,February 2002,Unknown,1
+Plano,January 2002,Light,1
+Arlington,January 2002,Light,1
+El Paso,January 2002,Unknown,1
+San Antonio,January 2002,Rectangle,1
+Houston,January 2002,*,3
+El Paso,December 2001,Rectangle,1
+Dallas,December 2001,Circle,1
+Houston,December 2001,Light,1
+Dallas,November 2001,Disk,1
+Houston,November 2001,Cylinder,2
+San Antonio,October 2001,*,3
+Austin,October 2001,Fireball,1
+Houston,October 2001,*,3
+Fort Worth,September 2001,*,2
+Dallas,September 2001,Disk,1
+Austin,September 2001,Triangle,1
+Houston,September 2001,Cigar,1
+Arlington,August 2001,Fireball,1
+Austin,August 2001,Cone,1
+Houston,August 2001,Cylinder,1
+El Paso,July 2001,Other,1
+Dallas,July 2001,Unknown,1
+Austin,July 2001,Circle,1
+Houston,July 2001,*,5
+Dallas,June 2001,*,2
+San Antonio,June 2001,Sphere,1
+Houston,June 2001,Unknown,1
+Fort Worth,May 2001,Light,1
+Houston,May 2001,Light,1
+Arlington,April 2001,Triangle,1
+Fort Worth,April 2001,Other,1
+San Antonio,April 2001,Sphere,1
+Houston,April 2001,*,3
+Arlington,March 2001,Unknown,1
+Fort Worth,March 2001,Disk,1
+Austin,March 2001,*,3
+Corpus Christi,February 2001,Cylinder,1
+Dallas,February 2001,Changing,1
+Austin,February 2001,Changing,1
+Houston,January 2001,*,2
+Dallas,December 2000,Light,1
+Austin,December 2000,*,2
+Houston,December 2000,Light,1
+Corpus Christi,November 2000,Other,1
+Fort Worth,November 2000,Fireball,1
+Dallas,November 2000,Disk,1
+Austin,November 2000,Disk,1
+Houston,November 2000,Triangle,1
+Katy,October 2000,Disk,1
+San Antonio,October 2000,Light,2
+Houston,October 2000,Triangle,1
+San Antonio,September 2000,*,2
+Houston,September 2000,*,3
+Katy,August 2000,Oval,1
+Dallas,August 2000,Cigar,1
+El Paso,July 2000,Sphere,1
+Austin,July 2000,Cigar,1
+Houston,July 2000,*,2
+Dallas,June 2000,Diamond,1
+Austin,June 2000,Cylinder,1
+Houston,June 2000,*,2
+Dallas,May 2000,Disk,1
+Houston,May 2000,*,2
+Plano,April 2000,Triangle,1
+Arlington,April 2000,Light,1
+Dallas,April 2000,*,2
+San Antonio,April 2000,Light,1
+Austin,April 2000,Fireball,1
+San Antonio,March 2000,Triangle,1
+Houston,March 2000,*,4
+San Antonio,February 2000,Other,1
+Houston,February 2000,*,3
+Houston,January 2000,*,6
+Katy,December 1999,Fireball,1
+Dallas,December 1999,*,2
+Houston,December 1999,Disk,1
+Fort Worth,November 1999,Cylinder,1
+Dallas,November 1999,Flash,1
+San Antonio,November 1999,Unknown,1
+Austin,November 1999,*,2
+Houston,November 1999,*,4
+Arlington,October 1999,Sphere,1
+El Paso,October 1999,Triangle,1
+Dallas,October 1999,*,2
+San Antonio,October 1999,Fireball,1
+Austin,October 1999,*,2
+Houston,October 1999,*,4
+Dallas,September 1999,Unknown,1
+Austin,September 1999,*,2
+Houston,September 1999,Sphere,1
+Plano,August 1999,Unknown,1
+Fort Worth,August 1999,Circle,2
+Dallas,August 1999,Circle,1
+Plano,July 1999,Unknown,1
+Arlington,July 1999,Unknown,1
+San Antonio,July 1999,Unknown,1
+Houston,July 1999,*,2
+Corpus Christi,June 1999,*,3
+El Paso,May 1999,Sphere,1
+San Antonio,May 1999,*,2
+Austin,May 1999,Light,1
+Houston,May 1999,Light,1
+Fort Worth,April 1999,Circle,1
+Dallas,April 1999,Disk,1
+Austin,April 1999,Fireball,1
+Houston,April 1999,*,2
+Dallas,March 1999,*,2
+San Antonio,March 1999,Triangle,1
+Arlington,February 1999,Fireball,1
+Austin,February 1999,*,2
+Arlington,January 1999,Fireball,1
+Corpus Christi,January 1999,Fireball,1
+Dallas,January 1999,*,3
+Plano,December 1998,Circle,1
+Houston,December 1998,Fireball,1
+Katy,November 1998,Fireball,1
+Arlington,November 1998,Other,1
+Fort Worth,November 1998,Light,1
+Dallas,November 1998,Fireball,1
+Austin,November 1998,*,2
+Dallas,October 1998,Disk,1
+Austin,October 1998,Triangle,1
+Houston,October 1998,*,2
+Arlington,September 1998,Formation,1
+Corpus Christi,September 1998,Sphere,1
+Fort Worth,September 1998,Fireball,1
+Austin,September 1998,*,3
+Houston,September 1998,Fireball,2
+El Paso,August 1998,*,2
+San Antonio,August 1998,Fireball,1
+Houston,August 1998,Light,1
+Houston,July 1998,Other,1
+Corpus Christi,June 1998,Cylinder,1
+Austin,June 1998,*,2
+Dallas,May 1998,Disk,1
+San Antonio,April 1998,*,2
+Austin,April 1998,*,3
+San Antonio,March 1998,*,2
+Houston,March 1998,Sphere,1
+Austin,February 1998,Circle,1
+Houston,February 1998,Cigar,1
+Dallas,January 1998,Light,1
+Dallas,November 1997,Formation,1
+Austin,November 1997,*,2
+Houston,November 1997,Light,1
+El Paso,October 1997,Other,1
+Dallas,October 1997,Light,1
+Houston,October 1997,Triangle,1
+Houston,September 1997,Disk,1
+Corpus Christi,July 1997,Oval,1
+El Paso,July 1997,Cigar,1
+El Paso,June 1997,Other,1
+Austin,June 1997,*,2
+Houston,June 1997,*,2
+Austin,May 1997,*,3
+Dallas,April 1997,Diamond,1
+Austin,April 1997,Triangle,1
+Houston,April 1997,*,3
+Houston,March 1997,Sphere,1
+San Antonio,February 1997,Triangle,1
+Austin,January 1997,Light,1
+Fort Worth,December 1996,Cigar,1
+Austin,October 1996,Triangle,1
+Austin,September 1996,Triangle,1
+Katy,July 1996,Diamond,1
+El Paso,June 1996,Disk,1
+Austin,March 1996,Unknown,1
+Houston,March 1996,*,2
+Houston,December 1995,Unknown,1
+Plano,November 1995,Sphere,1
+Fort Worth,October 1995,Disk,1
+Austin,October 1995,Unknown,1
+Corpus Christi,September 1995,Unknown,1
+Fort Worth,July 1995,Sphere,1
+San Antonio,July 1995,Light,1
+Corpus Christi,June 1995,Circle,1
+El Paso,June 1995,Unknown,1
+Dallas,June 1995,Light,1
+Austin,June 1995,Light,1
+Houston,May 1995,Light,1
+Austin,April 1995,Other,1
+San Antonio,March 1995,Fireball,1
+San Antonio,November 1994,Circle,1
+San Antonio,October 1994,Other,1
+Austin,September 1994,Other,1
+Arlington,August 1994,Diamond,1
+Arlington,December 1993,Oval,1
+Fort Worth,September 1993,Light,1
+Katy,July 1993,Sphere,1
+Houston,July 1993,Disk,1
+San Antonio,April 1993,Disk,1
+Houston,July 1992,Triangle,1
+Fort Worth,June 1992,Unknown,1
+Austin,June 1992,Fireball,1
+Houston,June 1992,Chevron,1
+Houston,May 1992,Triangle,1
+Dallas,March 1992,Circle,1
+Austin,July 1991,Triangle,1
+Houston,July 1991,*,2
+Plano,May 1991,Circle,1
+Austin,October 1990,Other,1
+Dallas,September 1990,Light,1
+San Antonio,September 1990,Other,1
+Corpus Christi,August 1990,Triangle,1
+San Antonio,July 1990,Triangle,1
+El Paso,June 1990,Triangle,1
+Dallas,November 1989,*,2
+San Antonio,November 1989,Diamond,1
+Austin,September 1989,Circle,1
+Corpus Christi,August 1989,Triangle,1
+Dallas,June 1989,Cigar,1
+Houston,June 1989,Other,1
+Fort Worth,March 1989,Light,1
+Houston,March 1989,Sphere,1
+Corpus Christi,July 1988,Circle,1
+Houston,July 1988,Oval,1
+Houston,May 1988,Unknown,1
+Dallas,April 1988,Light,1
+El Paso,November 1987,Oval,1
+Houston,July 1987,Sphere,1
+Austin,June 1987,Disk,1
+El Paso,May 1987,Disk,1
+San Antonio,May 1987,Disk,1
+Houston,December 1986,Formation,1
+Austin,July 1986,Oval,1
+Austin,September 1985,Chevron,1
+Houston,August 1985,Triangle,1
+Arlington,July 1985,Cigar,1
+Katy,June 1985,Triangle,1
+El Paso,June 1985,Disk,1
+Houston,June 1985,Triangle,1
+Austin,April 1985,Oval,1
+Houston,October 1984,Circle,1
+El Paso,June 1984,Circle,1
+Arlington,April 1984,Triangle,1
+Dallas,August 1983,Sphere,1
+San Antonio,July 1983,Cigar,1
+San Antonio,October 1982,Circle,1
+Houston,July 1982,Disk,1
+Fort Worth,June 1982,Oval,1
+San Antonio,June 1982,Other,1
+Austin,August 1981,Formation,1
+Corpus Christi,October 1980,Disk,1
+Dallas,October 1980,*,2
+Houston,October 1980,Sphere,1
+San Antonio,August 1980,Disk,1
+El Paso,June 1980,Light,1
+Houston,June 1980,Other,1
+Austin,November 1979,Triangle,1
+Fort Worth,June 1979,Teardrop,1
+San Antonio,May 1979,Other,1
+Dallas,April 1979,Light,1
+Houston,January 1979,Rectangle,1
+Fort Worth,August 1978,Triangle,1
+Katy,June 1978,Egg,1
+Dallas,June 1978,Oval,1
+Fort Worth,May 1978,Light,1
+San Antonio,October 1977,Other,1
+Plano,September 1977,Disk,1
+Fort Worth,June 1977,*,2
+San Antonio,June 1977,Oval,1
+El Paso,January 1977,Unknown,1
+Houston,January 1977,Oval,1
+Houston,November 1976,Circle,1
+Dallas,October 1976,Disk,1
+San Antonio,September 1976,Sphere,1
+Houston,August 1976,Unknown,1
+Corpus Christi,July 1976,Cylinder,1
+Fort Worth,June 1976,*,2
+Houston,March 1976,Disk,1
+Arlington,June 1975,Triangle,3
+San Antonio,May 1975,Disk,1
+Houston,April 1975,Unknown,1
+Houston,January 1975,Disk,1
+Houston,October 1974,Circle,1
+Houston,April 1974,Light,1
+Houston,October 1973,Circle,1
+San Antonio,September 1973,Circle,1
+Houston,September 1973,Chevron,1
+San Antonio,August 1973,Sphere,1
+Dallas,July 1973,Circle,1
+Austin,June 1973,Sphere,1
+Houston,April 1973,Disk,1
+Houston,February 1973,Rectangle,1
+El Paso,July 1972,*,2
+Houston,July 1972,Light,1
+Dallas,June 1972,Unknown,1
+Austin,June 1972,Light,1
+San Antonio,September 1971,Oval,1
+Houston,September 1971,Circle,1
+Corpus Christi,October 1970,Oval,1
+San Antonio,July 1970,Oval,1
+Houston,June 1970,Disk,1
+Houston,May 1970,Disk,1
+Fort Worth,March 1970,Disk,1
+Austin,September 1969,Sphere,1
+Dallas,May 1969,Light,1
+Corpus Christi,August 1968,Other,1
+Austin,August 1968,Disk,1
+Dallas,July 1968,Other,1
+Houston,July 1968,Disk,2
+Houston,June 1968,Triangle,1
+Corpus Christi,July 1967,Other,1
+El Paso,June 1967,Light,1
+El Paso,May 1967,Light,1
+El Paso,April 1967,Chevron,1
+Corpus Christi,November 1966,Oval,1
+Corpus Christi,April 1966,Light,1
+El Paso,March 1966,Oval,1
+Houston,December 1965,Formation,1
+San Antonio,August 1965,Egg,1
+Austin,April 1965,Unknown,1
+Houston,June 1964,Triangle,1
+Houston,June 1963,*,2
+Austin,August 1960,Fireball,1
+Houston,April 1960,Other,1
+Houston,March 1960,Triangle,1
+Fort Worth,June 1958,Disk,1
+Houston,June 1958,Disk,1
+Corpus Christi,November 1957,Light,1
+Houston,October 1957,Light,1
+El Paso,September 1957,Disk,1
+Houston,July 1957,Diamond,1
+El Paso,June 1957,Disk,1
+Dallas,June 1957,Other,1
+Dallas,January 1957,Unknown,1
+Houston,June 1956,Triangle,1
+Houston,June 1954,Disk,1
+Fort Worth,June 1953,Sphere,1
+Arlington,July 1952,Disk,1
+Fort Worth,June 1950,Disk,1
+Corpus Christi,June 1947,Fireball,1
+Dallas,July 1945,Sphere,1
+El Paso,,Sphere,1
+Houston,,*,2
