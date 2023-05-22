@@ -263,7 +263,7 @@ function updateMap(){
   //alert(order);
   svg.selectAll("*").remove();
   var newData = [];
-  d3.json("texas.json", function(error, us) {
+  d3.json("./texas.json", function(error, us) {
     //if (error) throw error;
     svg.append("g")
       .selectAll("path")
@@ -272,7 +272,7 @@ function updateMap(){
       .enter().append("path")
       .attr("d", path);
 
-      d3.tsv("plot3.tsv", function(error, data){
+      d3.tsv("./plot3.tsv", function(error, data){
         data.forEach(function(d){
           if(d.Shape == order){
             newData.push(d);
@@ -280,7 +280,7 @@ function updateMap(){
             newData.push(d);
           }
         });
-        //console.log(newData)
+        console.log(newData)
           svg.selectAll("circles.points")
               .data(newData).enter()
               .append("circle")

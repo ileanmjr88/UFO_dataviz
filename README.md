@@ -1,0 +1,31 @@
+# UFO Texas Data Visualiztion
+This project is originally from my graudate studies from the University of Illinois @ Urbana Champagne, it used legacy web technologies along with D3 and Bootstrap.
+
+[Live Website](https://ileanmjr88.github.io/UFO_dataviz/)
+
+## Re-imagination of the Orignal
+This re-imagination 
+
+
+## About the Visualization
+### Count of Shapes
+Count of shapes is the first scene the user is sees in the slideshow. It is a scatter plot where the data is represented is the city for each particular shape and count. The x-axis is all the reported shapes from the data. The x-axis is also sorted in ascending order by name, the axis is also clearly labeled with the text "Type of Shape". The y-axis shows the count of each city for a particular shape, the scale for y-axis is logarithmic to present the data in evenly spreadout and the full range of all the data in a smaller window. The y-axis is also clearly labeled with the text "Count of Shapes". The legend is on the right hand side labeled "Legend: Cities". The legend shows a total of 10 cities that are represented in the graph. Each city has the color associated with it, also the legend is not sorted alphabetically, it sorted by asending by the total number of sightings reported by city.
+
+As mention before the graph is a scatter plot with each point being a discrete value per shape and city, each city has an associated color. When the reader hovers its mouse over a point on the graph a tooltip appears. The reader sees the the city and the count of the shape for that particular data point. The annotation on the graph with the text "See how Houston is usually on top." is to bring the attention to the reader to two things: one being the legend, and secondly to explore the data that yes Houston has the most reported sightings in 14 out of the 22 reported shapes. The short paragraph at the bottom of the graph also bring attention to the legend. Along with bring to the annotation to on the graph, and lets the reader know that the graph is interactive.There is a dropdown box that triggers the graph to change. The dropdown menu is a list of parameters, all the cities shown in the legend ordered in the same way. By default it set to "All" which denotes all the cities, but the user can select the city and press "Submit" to trigger the graph to filter out the cities not selected. This allows the reader to focus on the city of interest only, notice how the annotaiton pointing out Houston disappers when the triggered filtering occurs. The annotaion is only needed when all the cities are present.
+
+### Texas Map with UFO Citings
+Texas Map with UFO Citings is the second scene the user is sees in the slideshow. It is a the map of Texas with scatter points where the reported sightings have appeared. Texas appears fully in black having good contrast as the points of data are lighter color. This brings the reader to the data instead of the focusing on the Texas. The map of Texas was redered using a GeoJson file, using D3 to graph the file and using the feature geoMercator to make the state appear flat.There are no axis on this map, but all data was graphed using global coordinates (Longitude, Latitude). The legend for this map is on the left hand side and labeled "Legend: Shapes", all the shapes from the data are listed in alphabetically ordered.
+
+The map has three red circles as annotation these are to bring attention to the reader. Each of these larger circles are located in the three major metropolitan areas of Texas, the user can over on the outer line of the circle to discover which area it is: Houston, San Antoino, or Dallas-Fort Worth area. These annotations are to bring the reader a point of reference if they are not familiar with Texas. The reader can use its mouse to hover on any particular point and a tooltip will appear, it will show the City, Shape, Longitude and Latitude. The short paragraph at the bottom of the map is to bring attention and intention of the 3 large circles, along with bring the user attention to the interactive feature of filtering. A dropdown menu and "Submit" button, the dropdown menu is a list of parameters, all the shapes from the legend, ordered alphabetically. The "All" denotes the all the shapes are selected, the reader can select a shape and press "Submit" to trigger the map filter the rest of the shapes out. This feature allows the reader to better see the geographic location of the reportings. The three large circle are static and it always referencing the metropolitan areas.
+
+### Data
+The data is from The National UFO Reporting Center Online Database, focusing on Texas citings. The data has the following attributes: Date / Time, City, State, Shape, Duration, Summary, Posted. Date / Time attribute shows the date and time in military time. City is where the reported citing occurred, many data points have the city name and the area like North or east of the city. During the cleaning process the additional information was removed and only the city name was left. State attribute is the state of the citing we are focusing on Texas only. Shape attribute shows what unidentified object shape was. Duration how long was the object appeared for this field varies in many users entered time in minutes others in hours and a few in seconds. Summary is just a quick summary of the event and Posted date shows when it was posted to the database.
+
+All the original data came from the link below named "UFO Texas Data", the data was filtered in Tableau. The schema for "Count of Shapes" is City, Shape, and CountofShape, where City is the Name of the City, Shape is reported shape, and CountofShape is the number of sightings reported. For "Texas Map with UFO Citings" the schema is a follows: City, Shape, State, lat, and lon where City is the City where UFO sighting occurred, Shape is the reported shape, and lat and long are Latitude and Longitude of the city.
+
+### References
+- [UFO Texas Data](http://www.nuforc.org/webreports/ndxlTX.html)
+- [D3 API Documentation](https://github.com/d3/d3/blob/master/API.md)
+- [Map of Texas](http://bl.ocks.org/uafrazier/98b7d1bdddfb7b2c6175)
+- [Simple Scatter Plot Example](https://bl.ocks.org/d3noob/2505b09d0feb51d0c9873cc486f10f67)
+- [Map Example](http://bl.ocks.org/phil-pedruco/7745589)
