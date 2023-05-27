@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import {readfile} from './readfile'
 import './App.css'
-import * as d3 from 'd3';
 
 function App() {
   const [count, setCount] = useState(0)
 
-  console.log(d3.tsv('./plot1.tsv'))
+  console.log(readfile<IChart>('/plot1.tsv'))
   return (
     <>
       <div>
